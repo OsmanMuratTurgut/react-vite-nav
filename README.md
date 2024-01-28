@@ -1,4 +1,4 @@
-[Demo](https://muratturgut-navbar.vercel.app/)
+[Demo](https://muratturgut-nav.vercel.app/)
 
 # React + Vite 
 # Tailwindcss + @heroicons/react 
